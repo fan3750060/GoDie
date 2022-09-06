@@ -1,6 +1,0 @@
-time="2021-09-25T18:03:49+08:00" level=info msg="POST 127.0.0.1:32584 /api/index HTTP/1.1 38" func=goframe/app/middleware.Process.func1 file="F:/code/goframe/app/middleware/authMiddleware.go:15"
-time="2021-09-25T18:03:49+08:00" level=info msg="sql: select * from Magic limit 10 offset 0" func=goframe/app/db.MysqlClass.Query file="F:/code/goframe/app/db/mysql.go:144"
-time="2021-09-25T18:03:52+08:00" level=info msg="POST 127.0.0.1:32584 /api/index HTTP/1.1 37" func=goframe/app/middleware.Process.func1 file="F:/code/goframe/app/middleware/authMiddleware.go:15"
-time="2021-09-25T18:03:52+08:00" level=info msg="sql: select * from Magic limit 1 offset 0" func=goframe/app/db.MysqlClass.Query file="F:/code/goframe/app/db/mysql.go:144"
-time="2021-09-25T18:04:01+08:00" level=info msg="POST 127.0.0.1:32584 /api/index HTTP/1.1 37" func=goframe/app/middleware.Process.func1 file="F:/code/goframe/app/middleware/authMiddleware.go:15"
-time="2021-09-25T18:04:01+08:00" level=info msg="sql: select * from Magic limit 1 offset 0" func=goframe/app/db.MysqlClass.Query file="F:/code/goframe/app/db/mysql.go:144"
